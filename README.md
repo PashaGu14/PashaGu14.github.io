@@ -1,7 +1,7 @@
 # Pasha Mulenga  
 ### Data & Business Analytics Portfolio
 
-Business development, project management, and analytics professional focused on turning data into measurable business outcomes. I use **SQL, Python, and Power BI** to analyze performance and support strategic decision-making. My work centers on performance analytics, program evaluation, operational efficiency, and data-driven planning.
+Data-driven Business Analyst with experience translating complex datasets into strategic insights that inform product, marketing, and operational decisions. Skilled in SQL, Python, and BI tools to analyze performance trends, improve reporting systems, and support AI-enabled analytics initiatives. Experienced collaborating with cross-functional teams to convert business requirements into data solutions that improve efficiency, transparency, and decision-making.
 
 ## Core Tools
 
