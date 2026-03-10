@@ -1,61 +1,49 @@
-# [Your Name] - Data Analysis Portfolio
+# Pasha Mulenga  
+### Data & Business Analytics Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Business development, project management, and analytics professional focused on turning data into measurable business outcomes. I use **SQL, Python, and Power BI** to analyze performance and support strategic decision-making. My work centers on performance analytics, program evaluation, operational efficiency, and data-driven planning.
 
-## About This Portfolio Template
+## Core Tools
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+- **Languages:** SQL, Python  
+- **Visualization:** Power BI, Tableau  
+- **Analytics Libraries:** Pandas, NumPy, Scikit-learn  
+- **Workflow:** GitHub, Monday.com, Asana  
 
-## 🚀 Projects
+Focus Areas: Development Economics, Trade, Program Evaluation, Performance Analytics
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+## Featured Projects
+### 1. Narrative Intelligence & Influencer Identification
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+Developed an analytical framework to identify and quantify narrative influence across traditional and social media.
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+#### Scope:
+Analyzed multi-source media datasets (articles, social mentions, engagement metrics)
+Designed an influence scoring model combining engagement, reach, and network centrality
+Conducted narrative propagation analysis to understand message diffusion
+Built structured outputs to support production-level deployment
+#### Tools Used: Python, Pandas, Network Analysis, Data Modeling
+#### Impact: Delivered a structured methodology for identifying high-impact narrative actors and tracking narrative spread across platforms.
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### 2. LinkedIn Engagement Analytics App
 
+Built a Streamlit application to analyze LinkedIn performance trends and engagement patterns.
+#### Scope:
+* Cleaned and transformed post-level engagement data
+* Built interactive visualizations for engagement metrics
+* Identified content themes driving higher interaction rates
+* Structured analysis for repeatable performance tracking
+#### Tools Used: Python, Streamlit, Pandas
 
-## 🛠️ Skills
+### 3.Airline Operations Performance Analysis
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+Analyzed airline operational data to evaluate delay patterns, carrier performance, and monthly flight activity trends across major U.S. airlines.
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+#### Scope:
 
-## 💡 How to Use This Template
-
-Creating your own portfolio from this template is a simple, four-step process.
-
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
-
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
-
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
-
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
-
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+* Extracted flight and delay data using SQL queries from structured airline datasets
+* Performed data cleaning and transformation using Python and Pandas
+* Developed visualizations to compare airline performance and operational trends
+* Identified delay concentration periods and airline activity fluctuations
+* Analyzed 100k+ flight records to evaluate airline operational performance.
+#### Tools Used: SQL, Python, Pandas, Matplotlib
