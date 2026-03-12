@@ -47,3 +47,16 @@ Analyzed airline operational data to evaluate delay patterns, carrier performanc
 * Identified delay concentration periods and airline activity fluctuations
 * Analyzed 100k+ flight records to evaluate airline operational performance.
 #### Tools Used: SQL, Python, Pandas, Matplotlib
+
+### 4.Maternal Health Risk Analysis
+
+Analyzed maternal health data to examine clinical indicators associated with pregnancy risk levels and identify patterns in patient health profiles. The project evaluates relationships between vital signs and maternal risk categories while developing predictive and segmentation models to better understand maternal health outcomes.
+
+#### Scope:
+
+* Loaded and structured maternal health data using Python and Pandas for analysis
+* Conducted exploratory analysis to evaluate distributions and trends in key physiological indicators
+* Examined relationships between vital signs such as blood pressure, heart rate, and blood sugar levels
+* Built a classification model to predict maternal risk levels based on clinical measurements
+* Developed a maternal risk scoring framework and applied clustering techniques to identify patient health profiles
+### Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SQLite, Tableau
