@@ -1,62 +1,90 @@
-# Pasha Mulenga  
-### Data & Business Analytics Portfolio
+# **Pasha Mulenga**
 
-Data-driven Business Analyst with experience translating complex datasets into strategic insights that inform product, marketing, and operational decisions. Skilled in SQL, Python, and BI tools to analyze performance trends, improve reporting systems, and support AI-enabled analytics initiatives. Experienced collaborating with cross-functional teams to convert business requirements into data solutions that improve efficiency, transparency, and decision-making.
+**Technical Business Analyst | Data & Analytics Portfolio**
 
-## Core Tools
+I have a background in data analytics and business operations, with experience using data to support decision-making, improve performance, and streamline reporting processes. My work focuses on translating business questions into structured analysis and delivering insights that are clear, actionable, and aligned with operational goals.
 
-- **Languages:** SQL, Python  
-- **Visualization:** Power BI, Tableau  
-- **Analytics Libraries:** Pandas, NumPy, Scikit-learn  
-- **Workflow:** GitHub, Monday.com, Asana  
+This portfolio highlights applied projects across product analytics, pricing strategy, operations, and predictive modeling.
 
-Focus Areas: Development Economics, Trade, Program Evaluation, Performance Analytics
+## **Core Capabilities**
 
-## Featured Projects
-### 1. Narrative Intelligence & Influencer Identification
+**Data & Tools**
+SQL • Python • Power BI • Tableau • Excel
 
-Developed an analytical framework to identify and quantify narrative influence across traditional and social media.
+**Analytics & Methods**
+Exploratory Data Analysis • Performance Analysis • Forecasting • Data Cleaning • Statistical Analysis
 
-#### Scope:
-Analyzed multi-source media datasets (articles, social mentions, engagement metrics)
-Designed an influence scoring model combining engagement, reach, and network centrality
-Conducted narrative propagation analysis to understand message diffusion
-Built structured outputs to support production-level deployment
-#### Tools Used: Python, Pandas, Network Analysis, Data Modeling
-#### Impact: Delivered a structured methodology for identifying high-impact narrative actors and tracking narrative spread across platforms.
+**Business & Systems**
+Requirements Gathering • KPI Development • Process Improvement • Reporting Design • Stakeholder Communication • Agile Workflows
 
-### 2. LinkedIn Engagement Analytics App
+**Technical Foundations**
+ETL Concepts • Data Modeling (basic)
 
-Built a Streamlit application to analyze LinkedIn performance trends and engagement patterns.
-#### Scope:
-* Cleaned and transformed post-level engagement data
-* Built interactive visualizations for engagement metrics
-* Identified content themes driving higher interaction rates
-* Structured analysis for repeatable performance tracking
-#### Tools Used: Python, Streamlit, Pandas
+## **Selected Work**
 
-### 3.Airline Operations Performance Analysis
+### **Amazon Product Pricing & Customer Engagement Analysis**
 
-Analyzed airline operational data to evaluate delay patterns, carrier performance, and monthly flight activity trends across major U.S. airlines.
+Analyzed marketplace data to evaluate how pricing strategy, discounting behavior, and customer engagement influence product performance.
 
-#### Scope:
+* Queried and analyzed product-level data to assess relationships between price, discounts, ratings, and reviews
+* Identified patterns between customer engagement and product success across categories
+* Evaluated how discounting strategies impact perceived value and performance outcomes
+* Translated findings into insights to support pricing and promotional decision-making
 
-* Extracted flight and delay data using SQL queries from structured airline datasets
-* Performed data cleaning and transformation using Python and Pandas
-* Developed visualizations to compare airline performance and operational trends
-* Identified delay concentration periods and airline activity fluctuations
-* Analyzed 100k+ flight records to evaluate airline operational performance.
-#### Tools Used: SQL, Python, Pandas, Matplotlib
+**Tools:** SQL, Python, Pandas
+**Focus:** Pricing Strategy, Customer Analytics, Product Performance
+---
+### **LinkedIn Engagement Analytics**
 
-### 4.Maternal Health Risk Analysis
+Built an analytics application to evaluate content performance and identify engagement trends.
 
-Analyzed maternal health data to examine clinical indicators associated with pregnancy risk levels and identify patterns in patient health profiles. The project evaluates relationships between vital signs and maternal risk categories while developing predictive and segmentation models to better understand maternal health outcomes.
+* Cleaned and structured post-level data for analysis
+* Developed interactive visualizations to track engagement metrics over time
+* Identified content patterns associated with higher engagement
+* Created a repeatable framework for ongoing performance tracking
 
-#### Scope:
+**Tools:** Python, Streamlit, Pandas
+**Focus:** Product Analytics, Performance Tracking
 
-* Loaded and structured maternal health data using Python and Pandas for analysis
-* Conducted exploratory analysis to evaluate distributions and trends in key physiological indicators
-* Examined relationships between vital signs such as blood pressure, heart rate, and blood sugar levels
-* Built a classification model to predict maternal risk levels based on clinical measurements
-* Developed a maternal risk scoring framework and applied clustering techniques to identify patient health profiles
-### Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SQLite, Tableau
+---
+
+### **Airline Operations Performance Analysis**
+
+Analyzed airline operational data to assess delays, carrier performance, and activity trends.
+
+* Extracted and analyzed 100k+ flight records using SQL and Python
+* Identified delay concentration periods and operational inefficiencies
+* Compared airline performance across time and key operational metrics
+* Developed visualizations to highlight trends and variability
+
+**Tools:** SQL, Python, Pandas
+**Focus:** Operations, Performance Analysis
+
+---
+
+### **Maternal Health Risk Analysis**
+
+Evaluated clinical data to understand risk factors and predict maternal health outcomes.
+
+* Conducted exploratory analysis on key health indicators
+* Built a classification model to predict maternal risk levels
+* Applied clustering techniques to segment patient profiles
+* Identified relationships between clinical variables and risk outcomes
+
+**Tools:** Python, Pandas, Scikit-learn, Tableau
+**Focus:** Predictive Modeling, Risk Analysis
+---
+## Across projects, I focus on:
+
+* Structuring business problems into clear analytical frameworks
+* Translating data into insights that support decisions
+* Delivering outputs that are practical, repeatable, and scalable
+
+---
+
+## This portfolio reflects my ability to work across:
+
+* Business needs
+* Data analysis
+* Technical execution
+
